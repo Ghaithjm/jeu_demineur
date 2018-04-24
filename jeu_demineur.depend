@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1524511495 source:c:\users\ghaith jemai\documents\programme c++\jeu_demineur\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"player.h"
+	"case.h"
+	"game.h"
+
+1523614570 c:\users\ghaith jemai\documents\programme c++\jeu_demineur\include\case.h
+	<iostream>
+
+1524511823 c:\users\ghaith jemai\documents\programme c++\jeu_demineur\include\player.h
+	"case.h"
+	<time.h>
+	<iostream>
+
+1524489972 c:\users\ghaith jemai\documents\programme c++\jeu_demineur\include\game.h
+	<algorithm>
+	<bits/stdc++.h>
+
